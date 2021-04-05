@@ -1,5 +1,5 @@
 /* josh_count.frag.c */
-/* ops to yield 1000 */
+/* ops to yield 513 */
 
 #include "aha.h"
 
